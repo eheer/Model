@@ -1,0 +1,67 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.fd-1{
+    background-color:#14143a ;
+}
+
+.fd-2{
+    background-color: #2b3b8b ;
+}
+
+.fd-3{
+    background-color: #7484c4 ;
+}
+
+.fd-4{
+    background-color: #c6d5fb ;
+}
+
+.fd-5{
+    background-color: #bcacdc;
+}
+
+.fd-6{
+    background-color: #f4f4f4 ;
+}
+
+.whatsapp {
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    width: 50px;
+    height: 50px;
+    z-index: 2;
+}
+
+.whatsapp_sticky {
+    position:sticky;
+    top:50px;
+}
+
+.imgcarrusel{
+    position:relative;
+    top:0px;
+    left:0px
+    background-size: cover;
+}
+
+.txtcarusel{
+    position:absolute; 
+}
+
+.avatar{
+    display: flex;
+    padding-left: 2rem;
+
+}
+
+.avatar_img{
+    width: 120px;
+    height: 120px;
+    border-radius: 100%;
+    border: 4px solid #2b3b8b;
+
+}
